@@ -1,0 +1,7 @@
+<!DOCTYPE html >
+<html>
+<body>
+<h1> Welcome to my Project < /h1>
+<p> My name is Meraz Hossain, and this is a simple lottery program where you generate a number and have to match it to the other generated number. </p>
+</body>
+</html>
